@@ -1,0 +1,109 @@
+.titulo-principal{
+    color: rgb(66, 115, 221);
+}
+
+.fondo{
+    background-color: rgb(188, 243, 243);
+}
+
+.nuestroclub{
+    text-align: center;
+}
+
+.actividades{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.deportes{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.redessociales {
+    width: 30px;
+    height: 30px;
+    display: inline;
+}
+
+.gmail{
+    display: block;
+}
+
+.imagengmail{
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 49%;
+}
+
+.medio{
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+
+.piedepagina{
+    background-color: rgb(0, 0, 0);
+    padding: 3px;
+    text-align: center;
+    align-content: center;
+}
+
+.encabezado{
+    background-color: #fff;
+    padding: 1px;
+    text-align: center;
+    background-color: black;
+}
+
+.textoenblanco{
+    color: #fff;
+}
+
+.imagenfutbol{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 2px black;
+    margin: 20px;
+}
+
+.imagenbasquet{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 2px black;
+    margin: 20px;
+}
+
+.imagenacrotelas{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 2px black;
+    margin: 20px;
+}
+
+.imagenvoley{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 2px black;
+    margin: 20px;
+}
+
+.imagennatacion{
+    width: 30%;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 2px black;
+    margin: 20px;
+}
+.imagenesdeportes{
+    text-align: center;
+}
+
+.belgrano{
+    width: 40px;
+    height: 40px;
+}
