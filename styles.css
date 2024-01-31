@@ -2,6 +2,11 @@
     color: rgb(66, 115, 221);
 }
 
+header{
+    position: fixed;
+    text-align: center;
+}
+
 .fondo{
     background-color: rgb(188, 243, 243);
 }
@@ -10,14 +15,19 @@
     text-align: center;
 }
 
+main{
+    text-align: center;
+}
+
 .actividades{
     text-align: center;
     padding-top: 50px;
+    padding-bottom: 10px;
 }
 
 .deportes{
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
 }
 
 .redessociales {
@@ -39,7 +49,7 @@
 
 .medio{
     padding-bottom: 100px;
-    padding-top: 20px;
+    padding-top: 100px;
 }
 
 .piedepagina{
@@ -51,9 +61,10 @@
 
 .encabezado{
     background-color: #fff;
-    padding: 1px;
     text-align: center;
     background-color: black;
+    padding-left: 542px;
+    padding-right: 542px;
 }
 
 .textoenblanco{
